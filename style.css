@@ -1,0 +1,83 @@
+.hm_logo {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    width: 100%;
+    height: 105px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 38px;
+    padding: 10px;
+
+}
+
+
+nav li {
+    list-style-type: none;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.narayan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 58px;
+    padding: 25px;
+    list-style: none;
+    font-weight: 600;
+    font-family: cursive, Times, serif;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding-right: 145px;
+    padding-left: 145px;
+    justify-content: center;
+    color: teal;
+}
+
+.in_container {
+    background-color: rgb(250, 206, 213);
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.sub_con{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px
+}
+
+
+.sub_div_con{
+padding:8px;
+background-color: white;    
+color:black;
+font-weight:600;
+border-radius:6px;
+}
+
+
+.img_div{
+    padding-right: 145px;
+    padding-left: 145px;
+
+}
+
+.img_div img{
+    width:100%;
+
+}
