@@ -6,6 +6,15 @@
     height: 105px;
 }
 
+.left_box{
+    display: flex;
+    justify-content: left;
+    padding: 0px;
+    margin: 0%;
+    gap: 38px;
+    list-style: none;
+}
+
 
 
 nav {
