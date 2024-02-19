@@ -16,8 +16,10 @@
 .right_box{
     display: flex;
     justify-content: right;
+    position: relative;
     gap: 38px;
     list-style: none;
+    
 
 }
 
