@@ -9,10 +9,22 @@
 .left_box{
     display: flex;
     justify-content: left;
-    padding: 0px;
-    margin: 0%;
     gap: 38px;
     list-style: none;
+}
+
+.right_box{
+    display: flex;
+    justify-content: right;
+    gap: 38px;
+    list-style: none;
+
+}
+
+.social_icon{
+    display: flex;
+    gap: 38px;
+    margin-bottom: 0%; 
 }
 
 
