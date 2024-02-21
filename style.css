@@ -1,9 +1,12 @@
 .hm_logo {
     display: flex;
+    position: relative;
+    top: 10%;
+
     /* align-items: center; */
     justify-content: center;
     width: 100%;
-    height: 105px;
+    height: 155px;
 }
 
 .left_box{
