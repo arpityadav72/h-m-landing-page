@@ -7,6 +7,7 @@
     justify-content: center;
     width: 100%;
     height: 155px;
+    padding: 0%;
 }
 
 .left_box{
@@ -14,6 +15,8 @@
     justify-content: left;
     gap: 38px;
     list-style: none;
+    float: left;
+
 }
 
 .right_box{
@@ -22,6 +25,8 @@
     position: relative;
     gap: 38px;
     list-style: none;
+    float: right;
+
     
 
 }
@@ -127,7 +132,7 @@ border-radius:6px;
 }
 
 
-.left_base{
+.box-1{
     
     position: relative;
     justify-content: left;
@@ -135,7 +140,7 @@ border-radius:6px;
     
 }
 
-.right_base{
+.box-2{
     
     justify-content: right;
     gap: 10%;
