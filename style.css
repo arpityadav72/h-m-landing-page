@@ -1,13 +1,16 @@
 .hm_logo {
-    display: flex;
+   display: flex;
     position: relative;
-    top: 10%;
+    margin-top: auto;
 
     /* align-items: center; */
     justify-content: center;
     width: 100%;
-    height: 155px;
-   
+    left: 0;
+    top: 0;
+    right: 0;
+    height: auto;
+    
 }
 
 .left_box{
@@ -125,7 +128,7 @@ border-radius:6px;
 
 .mohit h1{
     font-size: large;
-    gap: 10000%;
+    
     display: block;
     font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -138,14 +141,8 @@ border-radius:6px;
     justify-content: left;
     gap: 10%;
     
-}
-
-.box-2{
     
-    justify-content: right;
-    gap: 10%;
 }
 
-.p1{
-    margin: 10%;
-}
+
+
