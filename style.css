@@ -33,7 +33,7 @@
 .social_icon{
     display: flex;
     gap: 38px;
-    margin-bottom: 0%; 
+    margin-bottom: auto; 
 }
 
 
